@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Inicio"
+    url: /
+  - title: "¿Quienes somos?"
+    url: /acerca/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contacto"
+    url: /contacto/
