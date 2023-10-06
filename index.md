@@ -13,7 +13,7 @@ header:
 excerpt: "Una red interdisciplinaria de investigadores y colaboradores comprometidos en explorar la intersección entre la acústica y la ecología, amplificando el conocimiento sobre la relación entre el sonido y el entorno natural."
       
 intro: 
-  - excerpt: "*Todo el respeto y la admiración por Mauricio Álvarez Rebolledo. Increíble legado que nos deja como biólogo, pero aún más increíble su legado como persona. Por su aporte a las colecciones biológicas del país, tenemos que encargarnos de que ese legado sea inmortal.*"
+  - excerpt: "*Expresamos nuestro respeto y admiración hacia Mauricio Álvarez Rebolledo. Debido a su invaluable contribución a las colecciones biológicas del país, es nuestro deber asegurarnos de que su legado perdure eternamente.*"
   
 feature_row1:
   - image_path: /assets/images/memorias_1CCBE.jpg
@@ -44,7 +44,7 @@ feature_row4:
   - image_path: /assets/images/portada_numesp_biota.jpg
     alt: "Murciélago en vuelo y vocalizando"
     title: "Número especial en Biota Colombiana"
-    excerpt: "El número especial **Paisaje Sonoro Neotropical** surge como una colaboración entre la Red Ecoacustica Colombiana, La Fundación Reserva Natural la Palmita y el Instituto Humboldt. Este número especial, de la revista Biota Colombiana, reúne 13 artículos sobre una variedad de temas relacionados con el uso del sonido para estudiar el medio ambiente en Latino América. El número cuenta con esfuerzos en todas las dimensiones, desde trabajos metodológicos, ciencia de datos, y aplicaciones en ecología y conservación. La colaboración en este proyecto fue muy valiosa y contó con la participación de muchas instituciones de diferentes países.Este número especial representa un avance significativo en nuestro entendimiento de la bioacústica y su importancia en la comprensión de los ecosistemas y la conservación de la biodiversidad."
+    excerpt: "El número especial **Paisaje Sonoro Neotropical** surge como una colaboración entre la Red Ecoacustica Colombiana, La Fundación Reserva Natural la Palmita y el Instituto Humboldt. Este número especial, de la revista Biota Colombiana, reúne 13 artículos sobre una variedad de temas relacionados con el uso del sonido para estudiar el medio ambiente en Latino América. El número cuenta con esfuerzos en todas las dimensiones, desde trabajos metodológicos, ciencia de datos, y aplicaciones en ecología y conservación. La colaboración en este proyecto fue muy valiosa y contó con la participación de muchas instituciones de diferentes países. Este número especial representa un avance significativo en nuestro entendimiento de la bioacústica y su importancia en la comprensión de los ecosistemas y la conservación de la biodiversidad."
     url: "https://revistas.humboldt.org.co/index.php/biota/issue/view/69"
     btn_label: "Descúbrelo"
     btn_class: "btn--primary"
