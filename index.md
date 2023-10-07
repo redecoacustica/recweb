@@ -3,8 +3,8 @@ title: "Red Ecoacústica Colombiana"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.2"
-  overlay_image: /assets/images/encabezado_2.jpg
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/encabezado_3.jpg
   caption: "Créditos - Red Ecoacústica Colombiana"
   actions:
     - label: "Leer Más"
