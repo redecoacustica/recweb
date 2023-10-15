@@ -19,4 +19,4 @@ Imaginemos este blog como un punto de encuentro virtual donde cada uno puede com
 
 Escribir un blog aquí es más que compartir información; es contribuir a la construcción de una red sólida y colaborativa. Ya sea que seas un experto en tu campo o estés explorando nuevas áreas, tu aporte es valioso y queremos escucharte.
 
-¡Anímate a ser parte activa de esta comunidad! Comparte tus conocimientos, expresa tus ideas, y déjanos aprender contigo. Si tienes una historia que contar, un proyecto emocionante, o simplemente algo que crees que podría enriquecer a los demás, este es tu espacio.
+¡Anímate a ser parte activa de esta comunidad! Comparte tus conocimientos, expresa tus ideas, y déjanos aprender contigo. Si tienes una historia que contar, un proyecto emocionante, o simplemente algo que crees que podría enriquecer a los demás, envía un correo a [redecoacusticacol@gmail.com](mailto:redecoacusticacol@gmail.com), describiendo en pocas palabras el contenido que quieres compartir.
