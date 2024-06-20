@@ -15,15 +15,23 @@ excerpt: "Una red interdisciplinaria de investigadores y colaboradores compromet
 intro: 
   - excerpt: "*Expresamos nuestro respeto y admiración hacia Mauricio Álvarez Rebolledo. Debido a su invaluable contribución a las colecciones biológicas del país, es nuestro deber asegurarnos de que su legado perdure eternamente.*"
   
+feature_row0:
+  - image_path: /assets/images/2ccbe_poster.jpg
+    alt: "2ndo Congreso Colombiano de Bioacústica y Ecoacústica"
+    title: "2ndo Congreso Colombiano de Bioacústica y Ecoacústica (2024)"
+    excerpt: "Del 18 al 22 de noviembre de este año, en la ciudad de Medellín, se llevará a cabo el segundo Congreso Colombiano de Bioacústica y Ecoacústica (2CCBE), un evento crucial para conocer los avances y desarrollos en este campo tan relevante en América Latina. Este congreso representa una oportunidad invaluable para estudiantes e investigadores interesados en la bioacústica y ecoacústica, proporcionando un espacio ideal para compartir conocimientos, establecer redes colaborativas y contribuir significativamente al avance de la investigación en el país. Invitamos a todos los interesados a participar activamente y hacer de este encuentro un hito importante en el panorama científico nacional. En la página web del congreso y en las redes sociales podrán encontrar toda la información correspondiente. ¡No se lo pierdan!"
+    url: "https://www.congresoacusticacolombia.com/"
+    btn_label: "Ver Página"
+    btn_class: "btn--primary"
+
 feature_row1:
   - image_path: /assets/images/memorias_1CCBE.jpg
     alt: "placeholder image 2"
-    title: "1 Congreso Colombiano de Bioacústica y Ecoacústica (2022)"
+    title: "1er Congreso Colombiano de Bioacústica y Ecoacústica (2022)"
     excerpt: "El Primer Congreso Colombiano de Bioacústica y Ecoacústica (1CCBE) se llevó a cabo en la sede de Villa de Leyva del 25 al 28 de octubre de 2022 con la participación de 156 asistentes de diferentes regiones de Colombia y de investigadores de otros países como Paraguay, México, Estados Unidos, Francia e Inglaterra. Este fue el primer congreso dedicado a la bioacústica y la ecoacústica que se lleva a cabo en el país y el tercer país en Latinoamérica en organizar este tipo evento. En total, se presentaron 109 ponencias de 24 instituciones, brindando un estado del arte del avance científico con actores a nivel nacional e internacional. El 1CCBE se dividió en cinco simposios :  a) Arte sonoro, b) Monitoreo acústico para la conservación, c) Taxonomía integrativa y evolución, d) Metodologías de análisis cuantitativo, y e) Biomecánica, neuroetologia y comportamiento. Este evento evidenció que la bioacústica y la ecoacústica son ejes transversales que permiten integrar herpetólogos, ornitólogos, mastozoólogos, entomólogos, ingenieros y artistas para comprender cómo los sonidos naturales tejen los hilos de la tela de la vida."
     url: "https://revistas.humboldt.org.co/index.php/BEP/issue/view/76"
     btn_label: "Ver Memorias"
     btn_class: "btn--primary"
-
 
 feature_row2:
   - image_path: /assets/images/curso_2022.jpeg
@@ -52,6 +60,8 @@ feature_row4:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="feature_row0" type="right" %}
 
 {% include feature_row id="feature_row1" type="left" %}
 
