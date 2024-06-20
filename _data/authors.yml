@@ -1,0 +1,13 @@
+# /_data/authors.yml
+
+Daniela Martinez Medina:
+  name        : "Daniela Martínez Medina"
+  bio         : "Investigadora apasionada por los murciélagos, con experiencia en acústica y caracterización de la biodiversidad de este grupo. Está interesada en estudiar las relaciones ecológicas en paisajes urbanos, a partir de la aplicación de conceptos y técnicas bioacústicas."
+  #avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:dmartinez@humboldt.org.co"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/Dani_martinezme"
