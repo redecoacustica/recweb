@@ -16,12 +16,12 @@ intro:
   - excerpt: "*Expresamos nuestro respeto y admiración hacia Mauricio Álvarez Rebolledo. Debido a su invaluable contribución a las colecciones biológicas del país, es nuestro deber asegurarnos de que su legado perdure eternamente.*"
   
 feature_row0:
-  - image_path: /assets/images/2ccbe_poster.jpg
+  - image_path: /assets/images/2ccbe_poster.jpeg
     alt: "2ndo Congreso Colombiano de Bioacústica y Ecoacústica"
     title: "2ndo Congreso Colombiano de Bioacústica y Ecoacústica (2024)"
     excerpt: "Del 18 al 22 de noviembre de este año, en la ciudad de Medellín, se llevará a cabo el segundo Congreso Colombiano de Bioacústica y Ecoacústica (2CCBE), un evento crucial para conocer los avances y desarrollos en este campo tan relevante en América Latina. Este congreso representa una oportunidad invaluable para estudiantes e investigadores interesados en la bioacústica y ecoacústica, proporcionando un espacio ideal para compartir conocimientos, establecer redes colaborativas y contribuir significativamente al avance de la investigación en el país. Invitamos a todos los interesados a participar activamente y hacer de este encuentro un hito importante en el panorama científico nacional. En la página web del congreso y en las redes sociales podrán encontrar toda la información correspondiente. ¡No se lo pierdan!"
     url: "https://www.congresoacusticacolombia.com/"
-    btn_label: "Ver Página"
+    btn_label: "Inscríbete"
     btn_class: "btn--primary"
 
 feature_row1:
