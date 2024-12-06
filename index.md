@@ -19,9 +19,9 @@ feature_row0:
   - image_path: /assets/images/2ccbe_poster.jpeg
     alt: "2ndo Congreso Colombiano de Bioacústica y Ecoacústica"
     title: "2ndo Congreso Colombiano de Bioacústica y Ecoacústica (2024)"
-    excerpt: "Del 18 al 22 de noviembre de este año, en la ciudad de Medellín, se llevará a cabo el segundo Congreso Colombiano de Bioacústica y Ecoacústica (2CCBE), un evento crucial para conocer los avances y desarrollos en este campo tan relevante en América Latina. Este congreso representa una oportunidad invaluable para estudiantes e investigadores interesados en la bioacústica y ecoacústica, proporcionando un espacio ideal para compartir conocimientos, establecer redes colaborativas y contribuir significativamente al avance de la investigación en el país. Invitamos a todos los interesados a participar activamente y hacer de este encuentro un hito importante en el panorama científico nacional. En la página web del congreso y en las redes sociales podrán encontrar toda la información correspondiente. ¡No se lo pierdan!"
-    url: "https://www.congresoacusticacolombia.com/"
-    btn_label: "Inscríbete"
+    excerpt: "Celebrado del 18 al 22 de noviembre en Medellín, el 2CCBE se destacó como un hito en la integración de ciencia, arte y tecnología para estudiar paisajes sonoros y biodiversidad. Organizado en alianza con el Parque Explora, la Universidad de Antioquia y el ITM, reunió a 168 asistentes de 16 países y 38 universidades, quienes participaron en charlas magistrales, talleres especializados y actividades de divulgación. Entre los logros destacan más de 126 inscripciones en cursos precongreso, 84 ponencias, 52 pósters y siete eventos de divulgación científica que combinaron arte y tecnología, atrayendo a más de 837 asistentes presenciales y 5,000 virtuales. Con un enfoque interdisciplinario, el evento fortaleció la ecoacústica y la bioacústica como herramienta para el estudio y conservación de la biodiversidad."
+    url: "https://redecoacustica.org/simposio/2ccbe/"
+    btn_label: "Ver más"
     btn_class: "btn--primary"
 
 feature_row1:
