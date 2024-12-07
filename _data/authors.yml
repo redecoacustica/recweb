@@ -11,3 +11,14 @@ Daniela Martinez Medina:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/Dani_martinezme"
+
+Comite Organizador 2CCBE:
+  name        : "Comité Organizador 2CCBE"
+  bio         : "Equipo multidisciplinario encargado de planificar, coordinar y ejecutar el 2do Congreso Colombiano de Bioacústica y Ecoacústica."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:congreso.bioacustica.2024@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/Dani_martinezme"
