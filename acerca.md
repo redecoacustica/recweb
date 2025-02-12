@@ -4,7 +4,7 @@ url: /acerca/
 author_profile: true
 ---
 
-![Miembros REC](/assets/images/foto_miembros_rec.jpg)
+![Miembros REC](/assets/images/2ccbe/participantes_2ccbe.jpg)
 
 # ¿Quienes somos?
 
