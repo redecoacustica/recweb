@@ -22,7 +22,7 @@ El Crepusculario constituye un viaje sonoro a través de diversas zonas del paí
 #### **Crepusculario Vol. 1: Seis amaneceres en Colombia**
 Este primer volumen reúne a un grupo de artistas sonoros, científicos y colectivos que, a través de grabaciones inalteradas, nos transportan a los paisajes sonoros de la Amazonía, la Orinoquía, el Chocó, la región Andina y las ciénagas de Mompox. Cada pista, de 10 minutos de duración, captura la transición del amanecer en estos ecosistemas, acompañada de un texto personal sobre la experiencia de grabación en campo. La voz de cada lugar, su timbre, su complejidad y diversidad, nos hablan sobre las especies que lo componen y las interacciones entre ellas, en otras palabras sobre el estado de salud de un hábitat.
 
-![Portada Crepusculario](/assets/images/paisajes_amanecer_crepusculario.jpeg)
+![Portada Crepusculario](/assets/images/paisajes_amaneceres_crepusculario.jpg)
 
 #### **Participantes y colaboradores**
 **Carolina Ortíz**: Música y artista sonora, cuenta historias a través del sonido.
