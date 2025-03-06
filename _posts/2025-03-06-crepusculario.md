@@ -1,4 +1,3 @@
-
 ---
 title: "Crepusculario: un proyecto que amplifica la voz de los ecosistemas colombianos a través de la escucha de los paisajes sonoros"
 author: Divulgación REC
