@@ -24,11 +24,11 @@ Este primer volumen reúne a un grupo de artistas sonoros, científicos y colect
 ![Portada Crepusculario](/assets/images/paisajes_amaneceres_crepusculario.jpg)
 
 #### Participantes y colaboradores
-**Carolina Ortíz**: Música y artista sonora, cuenta historias a través del sonido.
-**Nicolás Gutiérrez**: Paisajista sonoro y director de sonido en Tembe Laboratorio Sonoro.
-**Tembe Laboratorio Sonoro:** Colectivo que fusiona investigación social y creación sonora.
-**Benjamin Calais:** Explorador de paisajes sonoros.
-**Juan Sebastián Ulloa:** Investigador en ecoacústica, enfocado en herramientas cuantitativas para el análisis de ecosistemas.
-**Camila Parra Guevara:** Ecóloga con enfoque en ecoacústica, ornitología y monitoreo comunitario de biodiversidad.
-**Sol Camacho-Schlenker:** Bóloga y artista sonora, investigadora en bioacústica y exploradora del sonido urbano.
-**Colectivo Viaje Sonoro:** Grupo de investigación y creación transdisciplinaria que explora los paisajes sonoros y su biodiversidad.
+* **Carolina Ortíz**: Música y artista sonora, cuenta historias a través del sonido.
+* **Nicolás Gutiérrez**: Paisajista sonoro y director de sonido en Tembe Laboratorio Sonoro.
+* **Tembe Laboratorio Sonoro:** Colectivo que fusiona investigación social y creación sonora.
+* **Benjamin Calais:** Explorador de paisajes sonoros.
+* **Juan Sebastián Ulloa:** Investigador en ecoacústica, enfocado en herramientas cuantitativas para el análisis de ecosistemas.
+* **Camila Parra Guevara:** Ecóloga con enfoque en ecoacústica, ornitología y monitoreo comunitario de biodiversidad.
+* **Sol Camacho-Schlenker:** Bóloga y artista sonora, investigadora en bioacústica y exploradora del sonido urbano.
+* **Colectivo Viaje Sonoro:** Grupo de investigación y creación transdisciplinaria que explora los paisajes sonoros y su biodiversidad.
