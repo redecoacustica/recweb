@@ -17,8 +17,8 @@ intro:
   
 feature_row5:
   - image_path: /assets/images/num_especial_royal_society_2025.jpg
-    alt: "Monitoreo acústico para la ecología y la conservación en los trópicos - Número especial"
-    title: " Monitoreo acústico para la ecología y la conservación en los trópicos - Número especial (2025)"
+    alt: "Monitoreo acústico para la ecología y la conservación en los trópicos"
+    title: " Monitoreo acústico para la ecología y la conservación en los trópicos (2025)"
     excerpt: "Esta edición de la revista Philosophical Transactions of the Royal Society B reúne investigaciones destacadas en monitoreo acústico pasivo aplicadas a diversos grupos taxonómicos. Los artículos están escritos por autores vinculados a instituciones ubicadas en regiones tropicales, o por investigadores con una trayectoria prolongada de trabajo conjunto con grupos de investigación locales, reconociendo explícitamente su papel central en la comprensión de la ecología tropical. El número especial fue co-liderado por Daniela Martínez (Instituto Humboldt y miembro fundador de la REC), Mónica Retamoza Izaguirre (Universidad de Costa Rica) y Larissa Sayuri M. Sugai (K. Lisa Yang Center for Conservation Bioacoustics)."
     url: "https://royalsocietypublishing.org/toc/rstb/2025/380/1928"
     btn_label: "Leer más"
