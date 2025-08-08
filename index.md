@@ -15,7 +15,17 @@ excerpt: "Una red interdisciplinaria de investigadores y colaboradores compromet
 intro: 
   - excerpt: "*Expresamos nuestro respeto y admiración hacia Mauricio Álvarez Rebolledo. Debido a su invaluable contribución a las colecciones biológicas del país, es nuestro deber asegurarnos de que su legado perdure eternamente.*"
   
-feature_row0:
+feature_row5:
+  - image_path: /assets/images/num_especial_royal_society_2025.jpg
+    alt: "Monitoreo acústico para la ecología y la conservación en los trópicos - Número especial"
+    title: " Monitoreo acústico para la ecología y la conservación en los trópicos - Número especial (2025)"
+    excerpt: "Esta edición de la revista Philosophical Transactions of the Royal Society B reúne investigaciones destacadas en monitoreo acústico pasivo aplicadas a diversos grupos taxonómicos. Los artículos están escritos por autores vinculados a instituciones ubicadas en regiones tropicales, o por investigadores con una trayectoria prolongada de trabajo conjunto con grupos de investigación locales, reconociendo explícitamente su papel central en la comprensión de la ecología tropical. El número especial fue co-liderado por Daniela Martínez (Instituto Humboldt y miembro fundador de la REC), Mónica Retamoza Izaguirre (Universidad de Costa Rica) y Larissa Sayuri M. Sugai (K. Lisa Yang Center for Conservation Bioacoustics)."
+    url: "https://royalsocietypublishing.org/toc/rstb/2025/380/1928"
+    btn_label: "Leer más"
+    btn_class: "btn--primary"
+
+
+feature_row4:
   - image_path: /assets/images/2ccbe_poster.jpeg
     alt: "2ndo Congreso Colombiano de Bioacústica y Ecoacústica"
     title: "2ndo Congreso Colombiano de Bioacústica y Ecoacústica (2024)"
@@ -24,7 +34,7 @@ feature_row0:
     btn_label: "Ver más"
     btn_class: "btn--primary"
 
-feature_row1:
+feature_row3:
   - image_path: /assets/images/memorias_1CCBE.jpg
     alt: "placeholder image 2"
     title: "1er Congreso Colombiano de Bioacústica y Ecoacústica (2022)"
@@ -39,7 +49,7 @@ feature_row2:
     title: "Herramientas acústicas para el estudio de la biodiversidad (2022)"
     excerpt: "En el marco del Primer Congreso Colombiano de Bioacústica y Ecoacústica se realizó el curso titulado *Herramientas acústicas para el estudio de la biodiversidad*. En la Reserva Natural Rogitama se reunieron profesionales de diversas disciplinas, para aprender acerca de herramientas metodológicas acústicas aplicables al estudio y monitoreo de la biodiversidad. El curso contó con la participación de un equipo de instructores que han trabajado durante muchos años en este campo, incluyendo al ornitólogo Mauricio Álvarez Rebolledo, creador de la Colección de Sonidos Ambientales, quien compartió su experiencia y maravilló a los asistentes con piezas de historia natural vinculadas a señales acústicas disponibles en la Colección. Finalmente, los asistentes desarrollaron proyectos cortos de investigación que les ayudaron a afianzar sus conocimientos de manera práctica. Este curso, constituye la continuación de una serie de esfuerzos que desde el Instituto Humboldt y la Red Colombiana de Ecoacústica, se han realizado para generar generaciones cada vez más interesadas en el uso de nuevas tecnologías para el desarrollo de investigaciones o piezas de divulgación científica."
 
-feature_row3:
+feature_row1:
   - image_path: /assets/images/portada_numesp_biota.jpg
     alt: "Murciélago en vuelo y vocalizando"
     title: "Número especial en Biota Colombiana (2021)"
@@ -48,7 +58,7 @@ feature_row3:
     btn_label: "Descúbrelo"
     btn_class: "btn--primary"
 
-feature_row4:
+feature_row0:
   - image_path: /assets/images/ps_ventana_2.jpg
     alt: "Ilustración de aves en entorno urbano"
     title: "Paisajes sonoros desde tu ventana (2020)"
@@ -61,12 +71,14 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row0" type="right" %}
+{% include feature_row id="feature_row5" type="right" %}
 
-{% include feature_row id="feature_row1" type="left" %}
-
-{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row4" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="right" %}
+{% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row1" type="left" %}
+
+{% include feature_row id="feature_row0" type="right" %}
