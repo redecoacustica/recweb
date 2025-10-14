@@ -4,7 +4,10 @@ main:
     url: /
   - title: "¿Quienes somos?"
     url: /acerca/
+  - title: "Publicaciones"
+    url: /publicaciones/
   - title: "Blog"
     url: /blog/
   - title: "Contacto"
     url: /contacto/
+  
