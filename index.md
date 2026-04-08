@@ -16,7 +16,7 @@ intro:
   - excerpt: "*Expresamos nuestro respeto y admiración hacia Mauricio Álvarez Rebolledo. Debido a su invaluable contribución a las colecciones biológicas del país, es nuestro deber asegurarnos de que su legado perdure eternamente.*"
   
 feature_row6:
-  - image_path: /assets/images/3ccbe_image.jpg
+  - image_path: /assets/images/3ccbe_image.png
     alt: "3er Congreso Colombiano de Bioacústica y Ecoacústica"
     title: "3er Congreso Colombiano de Bioacústica y Ecoacústica (2026)"
     excerpt: "¡Los invitamos al Tercer Congreso Colombiano de Bioacústica y Ecoacústica (#3CCBE)! Del 28 de septiembre al 2 de octubre de 2026, Bogotá será el epicentro del encuentro entre ciencia, arte y cultura sonora, en las sedes de la Universidad de los Andes y la Pontificia Universidad Javeriana. Durante cinco días compartiremos conferencias, talleres, simposios y experiencias interactivas que conectan la academia con la sociedad. Un espacio para el diálogo, la colaboración y la exploración del sonido como herramienta para comprender y transformar nuestros territorios. ¡Les esperamos! 🎧🌿"
