@@ -76,6 +76,15 @@ feature_row0:
     btn_label: "Ver Reporte"
     btn_class: "btn--primary"
 
+feature_row00:
+  - image_path: /assets/images/ps_ventana_2.jpg
+    alt: "Mapa de colombia con puntos de grabación"
+    title: "Paisajes sonoros de Colombia: la otra dimensión de la biodiversidad (2018)"
+    excerpt: "En la ficha 103 del reporte Biodiversidad 2018 del Instituto Humboldt, investigadores de 16 instituciones presentamos por primera vez un panorama de la ecoacústica en el país: 330 áreas estudiadas, registros en 15 de las 30 categorías de ecosistemas sintéticos y avances en hardware, clasificación automática de audio e índices acústicos. Aunque ya nos conocíamos por talleres y cursos, fue a partir de esta publicación, firmada colectivamente, que empezamos a hablar de la Red Ecoacústica Colombiana, con el propósito de fomentar el estudio de los paisajes sonoros en Colombia."
+    url: "https://www.researchgate.net/publication/337926537_Paisajes_sonoros_de_Colombia_La_otra_dimension_de_la_biodiversidad"
+    btn_label: "Ver Ficha"
+    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -93,3 +102,5 @@ feature_row0:
 {% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row0" type="right" %}
+
+{% include feature_row id="feature_row00" type="left" %}
